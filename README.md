@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSanthiyasanthiya&psig=AOvVaw3KZlJN_DQ7EfTjJ0jOQz7N&ust=1694968135197000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDn1r7Gr4EDFQAAAAAdAAAAABAg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nusratmahmudkhushbu&label=Profile%20views&color=0e75b6&style=flat" alt="nusratmahmudkhushbu" /> </p>
+
 
 
 - 🌱 I’m currently learning **Python**
