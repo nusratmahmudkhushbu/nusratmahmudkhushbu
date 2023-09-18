@@ -1,35 +1,26 @@
-### Hi there 👋
-
-<!--
-**nusratmahmudkhushbu/nusratmahmudkhushbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Masterhead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-<h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSanthiyasanthiya&psig=AOvVaw3KZlJN_DQ7EfTjJ0jOQz7N&ust=1694968135197000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDn1r7Gr4EDFQAAAAAdAAAAABAg">
+[![logo](https://cutewallpaper.org/27/binary-numbers-wallpaper-gif/38-binary-gifs-gif-abyss.gif)
+<h1 align="center">Hi 👋, I'm Nusrat</h1>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 - 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/khushbu2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khushbu2024" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nusrat-mahmud-ba1348260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nusrat-mahmud-ba1348260/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/nusratmahmud.khushbu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nusratmahmud.khushbu/" height="30" width="40" /></a>
+<a href="https://instagram.com/nusrat_khushbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nusrat_khushbu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/nusratmahmudkhu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nusratmahmudkhu1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/nusrartkhushbu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nusrartkhushbu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratmahmudkhushbu&show_icons=true&locale=en&layout=compact" alt="nusratmahmudkhushbu" /></p>
 
 
