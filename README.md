@@ -1,4 +1,4 @@
-[![logo](https://cutewallpaper.org/27/binary-numbers-wallpaper-gif/38-binary-gifs-gif-abyss.gif)
+![Banner](https://wallpaperaccess.com/full/6272395.gif)
 <h1 align="center">Hi 👋, I'm Nusrat</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
