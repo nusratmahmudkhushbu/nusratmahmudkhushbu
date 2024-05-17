@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python,** **HTML,** **CSS,** **JAVA Script**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
