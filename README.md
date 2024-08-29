@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nusratmahmudkhushbu](https://github.com/nusratmahmudkhushbu)
+- 👨‍💻 All of my projects are available at [https://github.com/nusratmahmudkhushbu?tab=repositories](https://github.com/nusratmahmudkhushbu?tab=repositories)
 
 - 📫 How to reach me **nusratmahmudkhushbu@gmail.com**
 
